@@ -69,7 +69,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-professional-audio:4.1.2'
+    compile 'com.github.oceanbrasil:samsung-services-pen-full:4.1.2'
 }
 ```
 
